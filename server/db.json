@@ -1,0 +1,25 @@
+{
+  "pets": [
+    {
+      "name": "bola de nieve 3",
+      "type": "cat",
+      "age": 2,
+      "description": "una gata loquilla",
+      "id": 2
+    },
+    {
+      "name": "naomi",
+      "type": "cat",
+      "age": 1,
+      "description": "una gata  nueva",
+      "id": 3
+    },
+    {
+      "name": "firulais",
+      "type": "dog",
+      "age": 1,
+      "description": "un pegggitoooo",
+      "id": 4
+    }
+  ]
+}
